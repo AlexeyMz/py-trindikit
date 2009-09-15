@@ -1,7 +1,9 @@
 #summary How to get py-trindikit working.
-#labels Phase-Deploy,Featured
+#labels Featured
 
-= Howto do things with py-trindikit =
+= How to do things with py-trindikit =
+
+These are just some very quick notes on how to use py-trindikit.
 
 == Example application ==
 
